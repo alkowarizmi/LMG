@@ -319,16 +319,6 @@ const ContactPage = () => {
 
                   <div className="flex items-start gap-4">
                     <div className="w-12 h-12 bg-lmg-yellow flex items-center justify-center flex-shrink-0">
-                      <FiGlobe className="text-lmg-black text-xl" />
-                    </div>
-                    <div>
-                      <p className="font-body text-sm text-lmg-black/60 uppercase tracking-wider mb-1">Website</p>
-                      <span className="font-body text-lg text-lmg-black">www.wearelemieux.com</span>
-                    </div>
-                  </div>
-
-                  <div className="flex items-start gap-4">
-                    <div className="w-12 h-12 bg-lmg-yellow flex items-center justify-center flex-shrink-0">
                       <FiPhone className="text-lmg-black text-xl" />
                     </div>
                     <div>
