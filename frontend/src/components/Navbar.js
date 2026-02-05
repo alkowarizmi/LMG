@@ -58,7 +58,7 @@ const Navbar = () => {
           {/* Logo */}
           <Link
             to="/"
-            className="flex items-center gap-3"
+            className="flex items-center"
             data-testid="navbar-logo"
           >
             <img
@@ -66,9 +66,6 @@ const Navbar = () => {
               alt="LMG Logo"
               className="h-12 w-auto object-contain"
             />
-            <span className="font-heading text-xl md:text-2xl font-bold text-lmg-white tracking-wider">
-              LMG
-            </span>
           </Link>
 
           {/* Desktop Navigation */}

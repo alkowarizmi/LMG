@@ -36,15 +36,12 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 pb-12">
           {/* Column 1: Logo & Tagline */}
           <div>
-            <Link to="/" className="flex items-center gap-3 mb-6" data-testid="footer-logo">
+            <Link to="/" className="flex items-center mb-6" data-testid="footer-logo">
               <img
                 src="https://customer-assets.emergentagent.com/job_talent-global/artifacts/ww4d367c_Screenshot%202026-02-05%20at%2000.29.28.png"
                 alt="LMG Logo"
                 className="h-14 w-auto object-contain"
               />
-              <span className="font-heading text-2xl font-bold text-lmg-white tracking-wider">
-                LMG
-              </span>
             </Link>
             <p className="font-heading text-lg text-lmg-yellow mb-2">
               Talent. Media. Sports.
