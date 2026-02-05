@@ -62,9 +62,9 @@ const Navbar = () => {
             data-testid="navbar-logo"
           >
             <img
-              src="https://customer-assets.emergentagent.com/job_talent-global/artifacts/dut0y30b_Screenshot%202026-02-04%20at%2023.43.33.png"
+              src="https://customer-assets.emergentagent.com/job_talent-global/artifacts/ww4d367c_Screenshot%202026-02-05%20at%2000.29.28.png"
               alt="LMG Logo"
-              className="h-12 w-12 object-contain"
+              className="h-12 w-auto object-contain"
             />
             <span className="font-heading text-xl md:text-2xl font-bold text-lmg-white tracking-wider">
               LMG
