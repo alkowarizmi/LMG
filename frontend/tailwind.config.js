@@ -8,7 +8,7 @@ module.exports = {
   theme: {
         extend: {
                 fontFamily: {
-                        'heading': ['Oswald', 'sans-serif'],
+                        'heading': ['Akko Pro', 'sans-serif'],
                         'body': ['Roboto', 'sans-serif'],
                 },
                 colors: {
