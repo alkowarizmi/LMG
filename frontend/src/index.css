@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
 
-/* Akko Pro Custom Font */
+/* Dsignes Custom Font */
 @font-face {
-  font-family: 'Akko Pro';
-  src: url('https://customer-assets.emergentagent.com/job_talent-global/artifacts/69ia5fk2_AkkoPro-Regular.woff') format('woff');
+  font-family: 'Dsignes';
+  src: url('https://customer-assets.emergentagent.com/job_talent-global/artifacts/reyhl4qc_DsignesR.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -33,7 +33,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Akko Pro', sans-serif;
+    font-family: 'Dsignes', sans-serif;
 }
 
 /* Custom selection */
