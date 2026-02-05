@@ -31,6 +31,12 @@ const About = () => {
                 className="font-body text-base md:text-lg text-lmg-black/80 leading-relaxed"
                 data-testid="about-content"
               >
+                Lemieux Management Group (LMG) is a 360° talent management and media company 
+                focused on discovering, managing, and positioning exceptional talents across 
+                Africa for global opportunities.
+              </p>
+              
+              <p className="font-body text-base md:text-lg text-lmg-black/80 leading-relaxed">
                 We represent creatives, public figures, and professionals across entertainment, 
                 media, lifestyle, and sports — providing strategic career management, brand 
                 positioning, media visibility, and international exposure.
