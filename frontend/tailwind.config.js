@@ -8,7 +8,7 @@ module.exports = {
   theme: {
         extend: {
                 fontFamily: {
-                        'heading': ['Dsignes', 'sans-serif'],
+                        'heading': ['AmsiPro', 'sans-serif'],
                         'body': ['Roboto', 'sans-serif'],
                 },
                 colors: {

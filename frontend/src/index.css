@@ -1,12 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
 
-/* Dsignes Custom Font */
+/* AmsiPro Custom Font */
 @font-face {
-  font-family: 'Dsignes';
-  src: url('https://customer-assets.emergentagent.com/job_talent-global/artifacts/3dkfr1a4_d221faf569e23ca9fe8135619de944fc.woff2') format('woff2'),
-       url('https://customer-assets.emergentagent.com/job_talent-global/artifacts/1twfedgx_d221faf569e23ca9fe8135619de944fc.woff') format('woff'),
-       url('https://customer-assets.emergentagent.com/job_talent-global/artifacts/ayy4a18x_d221faf569e23ca9fe8135619de944fc.ttf') format('truetype');
-  font-weight: normal;
+  font-family: 'AmsiPro';
+  src: url('https://customer-assets.emergentagent.com/job_talent-global/artifacts/39c5i97f_AmsiPro-Bold.otf') format('opentype');
+  font-weight: bold;
   font-style: normal;
   font-display: swap;
 }
@@ -35,11 +33,11 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Dsignes', sans-serif !important;
+    font-family: 'AmsiPro', sans-serif !important;
 }
 
 .font-heading {
-    font-family: 'Dsignes', sans-serif !important;
+    font-family: 'AmsiPro', sans-serif !important;
 }
 
 /* Custom selection */
