@@ -5,31 +5,31 @@ const reasons = [
     number: '01',
     title: 'Africa-Focused, Globally Minded',
     description:
-      'LMG is rooted in Africa with a clear understanding of the continent\'s creative, cultural, and sports ecosystems. At the same time, we operate with a global outlook — positioning African talent for opportunities across international markets.',
+      'LMG is rooted in Africa with a clear understanding of the continent\'s creative, cultural, and sports ecosystems. At the same time, we operate with a global outlook — positioning African talent for opportunities across international markets. Our approach bridges local relevance with global standards, ensuring our talents are competitive, visible, and respected on the world stage.',
   },
   {
     number: '02',
     title: 'Integrated Talent + Media Approach',
     description:
-      'We go beyond traditional talent management by combining representation with media strategy. LMG develops talent brands through structured storytelling, digital content, publicity, and audience engagement.',
+      'We go beyond traditional talent management by combining representation with media strategy. LMG develops talent brands through structured storytelling, digital content, publicity, and audience engagement. By controlling both talent positioning and media output, we help our clients build influence, not just visibility — turning talent into long-term brands.',
   },
   {
     number: '03',
-    title: 'Strong Industry Networks',
+    title: 'Strong Industry Networks Across Entertainment, Sports, and Brands',
     description:
-      'LMG maintains active relationships across entertainment, sports, media platforms, corporate brands, event organizers, and international partners — opening doors to endorsements, appearances, collaborations, sponsorships, and performance opportunities.',
+      'LMG maintains active relationships across entertainment, sports, media platforms, corporate brands, event organizers, and international partners. These networks allow us to open doors to endorsements, appearances, collaborations, sponsorships, and performance opportunities that align with each client\'s career goals.',
   },
   {
     number: '04',
     title: 'Flexible, Growth-Driven Management Models',
     description:
-      'We understand that every talent is at a different stage of growth. Our management models are adaptable — ranging from project-based representation to long-term management and non-exclusive partnerships.',
+      'We understand that every talent is at a different stage of growth. Our management models are adaptable — ranging from project-based representation to long-term management and non-exclusive partnerships. This flexibility allows us to support talents without limiting existing relationships, while still driving structured growth.',
   },
   {
     number: '05',
     title: 'Strategic, Not Transactional Representation',
     description:
-      'At LMG, we do not focus on one-off deals. Our representation is strategy-led, with an emphasis on long-term value creation. We act as career partners, not just agents.',
+      'At LMG, we do not focus on one-off deals. Our representation is strategy-led, with an emphasis on long-term value creation. Every opportunity is evaluated based on brand alignment, career sustainability, and future growth potential. We act as career partners, not just agents — protecting the integrity and future of the talents we represent.',
   },
 ];
 
