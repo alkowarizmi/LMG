@@ -61,12 +61,16 @@ const Sports = () => {
             </h2>
 
             <p 
-              className="font-body text-base md:text-lg text-lmg-black/80 leading-relaxed mb-8"
+              className="font-body text-base md:text-lg text-lmg-black/80 leading-relaxed mb-4"
               data-testid="sports-description"
             >
               Lemieux Sports Management (LSM) is the sports management arm of LMG, 
               dedicated to representing and managing professional athletes, with a 
               strong focus on football.
+            </p>
+
+            <p className="font-body text-base md:text-lg text-lmg-black/80 leading-relaxed mb-8">
+              LSM operates under the same vision and standards as LMG, providing:
             </p>
 
             {/* Services List */}
