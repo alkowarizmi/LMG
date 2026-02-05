@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { motion } from 'framer-motion';
-import { FiMail, FiGlobe, FiPhone, FiMapPin, FiSend } from 'react-icons/fi';
+import { FiMail, FiPhone, FiMapPin, FiSend } from 'react-icons/fi';
 import axios from 'axios';
 
 const BACKEND_URL = process.env.REACT_APP_BACKEND_URL;
