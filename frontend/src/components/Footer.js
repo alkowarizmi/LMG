@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import { FiInstagram, FiLinkedin, FiTwitter, FiFacebook, FiYoutube, FiMail, FiGlobe, FiPhone } from 'react-icons/fi';
+import { FiInstagram, FiLinkedin, FiTwitter, FiFacebook, FiYoutube, FiMail, FiPhone } from 'react-icons/fi';
 
 const socialLinks = [
   { name: 'LinkedIn', icon: FiLinkedin, href: '#' },
