@@ -110,12 +110,6 @@ const Footer = () => {
                 </a>
               </li>
               <li className="flex items-start gap-3">
-                <FiGlobe className="text-lmg-yellow mt-1 flex-shrink-0" />
-                <span className="font-body text-base text-lmg-white/70">
-                  www.wearelemieux.com
-                </span>
-              </li>
-              <li className="flex items-start gap-3">
                 <FiPhone className="text-lmg-yellow mt-1 flex-shrink-0" />
                 <div className="font-body text-base text-lmg-white/70">
                   <p>+234 703 472 0462</p>
